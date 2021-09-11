@@ -1,4 +1,5 @@
 Main.c – программа по заданию лабораторной (задание внутри) 
+
 Enprog01.c - implementation of wc command from shell in C language 
 
 Enprog02.c – wordcount . Replicate wc command in C. Using fread(). 
